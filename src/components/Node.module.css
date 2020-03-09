@@ -1,0 +1,19 @@
+.node {
+    color: red;
+}
+
+.start {
+    background-color: #BADA55
+}
+
+.finish {
+    background-color: #ABABAB;
+}
+
+.isPath {
+    background-color: blue;
+}
+
+.disabled {
+    background-color: black;
+}

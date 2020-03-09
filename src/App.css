@@ -1,0 +1,20 @@
+.node {
+    border: 1px solid #bbb;
+    width: 10px;
+    height: 10px;
+}
+
+.row {
+    display: flex;
+}
+
+.grid {
+    margin: 0 auto;
+}
+
+.App {
+    display: flex;
+    flex-wrap: column;
+    justify-content: center;
+    align-items: center;
+}
